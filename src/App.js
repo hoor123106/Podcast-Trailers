@@ -135,7 +135,7 @@ export default function App() {
         </Section>
 
         {/* Podcast Horizontal + Vertical */}
-        <Section title="Podcast Trailers – Horizontal + Vertical (1 Clip)">
+        <Section title="Podcast Trailers – Horizontal + Vertical">
           <Card
             title="Single Trailers"
             items={[
